@@ -1,3 +1,8 @@
+## Projeto 
+
+Nesse projeto são aplicados os principais conceitos do React,
+foi criado a partir do estudo dessa lib.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
